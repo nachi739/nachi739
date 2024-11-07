@@ -1,16 +1,22 @@
-## Hi there 👋
+# About Me
+I'm a web frontend and backend developer from Japan
 
-<!--
-**nachi739/nachi739** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Tech Blog**: [Errorda2](https://errorda2.vercel.app/)
+- **Portfolio**: [here](https://github.com/nachi739/Errorda2)
 
-Here are some ideas to get you started:
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachi739&layout=compact&count_private=true&show_icons=true&theme=compact" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nachi739&count_private=true&show_icons=true&show_icons=true&theme=compact" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Languages
+
+<img src="https://skillicons.dev/icons?i=js,typescript,java,php,ruby,py,html,css,bash" /> <br /><br />
+
+## Frameworks and Libraries
+
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,spring,laravel,rails,tailwind,bootstrap" /> <br /><br />
+
+## Databases and Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,docker,vscode,vim,linux,aws,vercel,vite,gradle,nginx,yarn,notion" /> <br /><br />
