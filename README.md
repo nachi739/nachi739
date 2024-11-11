@@ -3,9 +3,10 @@ I'm a web frontend and backend developer from Japan
 
 - **Tech Blog**: [Errorda2](https://errorda2.vercel.app/)
 - **Portfolio**: [here](https://github.com/nachi739/Errorda2)
+
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <img alt="Top Langs" height="245px" wdith="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachi739&langs_count=7&layout=donut" />
-  <img alt="github stats" height="245px" wdith="70%" src="https://github-readme-stats.vercel.app/api?username=nachi739&count_private=true&show_icons=true&show_icons=true&theme=compact" />
+  <img alt="Top Langs" style="flex: 1; max-width: 30%; height: 245px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachi739&langs_count=7&layout=donut" />
+  <img alt="github stats" style="flex: 2; max-width: 70%; height: 245px;" src="https://github-readme-stats.vercel.app/api?username=nachi739&count_private=true&show_icons=true&show_icons=true&theme=compact" />
 </div>
 
 ## Programming Languages
