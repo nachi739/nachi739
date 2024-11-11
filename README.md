@@ -11,7 +11,7 @@ I'm a web frontend and backend developer from Japan
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=js,typescript,java,php,ruby,py,html,css,bash" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=js,typescript,java,php,ruby,html,css,bash" /> <br /><br />
 
 ## Frameworks and Libraries
 
@@ -19,4 +19,4 @@ I'm a web frontend and backend developer from Japan
 
 ## Databases and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,docker,vscode,vim,linux,aws,vercel,vite,gradle,nginx,yarn,notion" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,docker,vscode,linux,aws,yarn" /> <br /><br />
