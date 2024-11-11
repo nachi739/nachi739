@@ -15,7 +15,7 @@ I'm a web frontend and backend developer from Japan
 
 ## Frameworks and Libraries
 
-<img src="https://skillicons.dev/icons?i=react,next,nodejs,spring,laravel,rails,tailwind,bootstrap" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,tailwind,bootstrap" /> <br /><br />
 
 ## Databases and Dev Tools etc
 
