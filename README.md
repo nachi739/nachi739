@@ -11,7 +11,7 @@ I'm a web frontend and backend developer from Japan
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=js,typescript,java,php,ruby,html,css,bash" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=js,typescript,java,php,html,css,bash" /> <br /><br />
 
 ## Frameworks and Libraries
 
