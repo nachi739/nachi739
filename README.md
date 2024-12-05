@@ -19,4 +19,4 @@ I'm a web frontend and backend developer from Japan
 
 ## Databases and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,docker,vscode,linux,aws,yarn" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,aws,linux,docker,npm,yarn,github,git,vscode" /> <br /><br />
