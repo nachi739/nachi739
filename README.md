@@ -11,14 +11,14 @@ I'm a web frontend and backend developer from Japan
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=js,typescript,java,php,bash" /> <br /><br />
-<img src="https://skillicons.dev/icons?i=html,css" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=typescript,js,java,php,bash" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=css,html" /> <br /><br />
 
 ## Frameworks and Libraries
 
-<img src="https://skillicons.dev/icons?i=react,next,nodejs,tailwind,bootstrap" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,nodejs,next,tailwind,bootstrap" /> <br /><br />
 
 ## Databases and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,aws,linux,docker" /> <br /><br />
-<img src="https://skillicons.dev/icons?i=npm,yarn,github,git,vscode" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,aws,linux,vscode" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=docker,git,github,npm,yarn" /> <br /><br />
