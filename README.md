@@ -3,6 +3,7 @@ I'm a web frontend and backend developer from Japan
 
 - [**Tech Blog**](https://errorda2.vercel.app/)
 - [**Portfolio**](https://github.com/nachi739/Errorda2)
+- [**Errorda2(Chrome拡張機能)**](https://chromewebstore.google.com/detail/errorda2/kiokhdhbecikhmpdancgmchlpjjbbkjg?hl=ja&utm_source=ext_sidebar)
 
 ## 🌱My Skills
 ### 🛠️Programming Languages
