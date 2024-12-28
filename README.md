@@ -1,7 +1,7 @@
 # 🙋‍♂️About Me
 I'm a web frontend and backend developer from Japan
 
-- [**Tech Blog**](https://errorda2.vercel.app/)
+- [**Output Blog**](https://errorda2.vercel.app/)
 - [**Portfolio**](https://github.com/nachi739/Errorda2)
 - [**Errorda2(Chrome拡張機能)**](https://chromewebstore.google.com/detail/errorda2/kiokhdhbecikhmpdancgmchlpjjbbkjg?hl=ja&utm_source=ext_sidebar)
 
@@ -9,10 +9,8 @@ I'm a web frontend and backend developer from Japan
 ### 🛠️Programming Languages
 <img src="https://skillicons.dev/icons?i=typescript,js,java,php,bash" /> <br /><br />
 <img src="https://skillicons.dev/icons?i=css,html" /> <br /><br />
-
 ### 🗂️Frameworks and Libraries
 <img src="https://skillicons.dev/icons?i=react,nodejs,next,tailwind,bootstrap" /> <br /><br />
-
 ### 🌐Databases and Dev Tools etc
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,aws,linux,vscode" /> <br /><br />
 <img src="https://skillicons.dev/icons?i=docker,git,github,npm,yarn" /> <br /><br />
